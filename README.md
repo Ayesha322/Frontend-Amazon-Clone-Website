@@ -23,6 +23,12 @@ Usage :
 
 Clone the repository:
 
-git clone https://github.com/Ayesha322/Frontend-Amazon-Clone-Website.git
+1. git clone https://github.com/Ayesha322/Frontend-Amazon-Clone-Website.git
+   
+2. cd Frontend-Amazon-Clone-Website
+  
+3. start index.html
 
-Open the index.html file in your web browser to view the website.
+   The index.html file should now be opened in your web browser, allowing you to view the website. You can navigate through the website 
+   just like any other webpage.
+
