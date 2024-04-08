@@ -18,7 +18,11 @@ HTML
 CSS 
 
 JavaScript 
+
 Usage :
+
 Clone the repository:
+
 git clone https://github.com/Ayesha322/Frontend-Amazon-Clone-Website.git
+
 Open the index.html file in your web browser to view the website.
